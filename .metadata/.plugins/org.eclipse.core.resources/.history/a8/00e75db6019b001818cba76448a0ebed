@@ -1,0 +1,5 @@
+titre.bonjour=Bonjour avec Spring 
+libelle.bonjour.lemonde=Bonjour {0} avec Spring.
+
+titre.accueil=Welcome sur mon site 
+libelle.accueil.metier=Métier de {0} est {1}

@@ -1,0 +1,5 @@
+package com.M2i.bean;
+
+public class Course {
+
+}

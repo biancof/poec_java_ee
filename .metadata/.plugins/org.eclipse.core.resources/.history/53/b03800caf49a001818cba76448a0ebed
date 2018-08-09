@@ -1,0 +1,7 @@
+package com.M2i.web.dao; 
+import java.util.List; 
+import com.M2i.web.bean.Course; 
+
+public interface IListeCoursesDAO {      
+	List<Course> rechercherCourses(); 
+} 
