@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Thu Aug 09 15:12:37 CEST 2018
+#Fri Aug 10 14:53:19 CEST 2018
 org.eclipse.jst.j2ee.server\:exercise-spring-web=C\:\\Users\\Administrateur\\Documents\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\exercise-spring-web
 org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Administrateur\\.m2\\repository\\org\\springframework\\spring-web\\3.2.3.RELEASE\\spring-web-3.2.3.RELEASE.jar=C\:\\Users\\Administrateur\\Documents\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\exercise-spring-web\\WEB-INF\\lib\\spring-web-3.2.3.RELEASE.jar
